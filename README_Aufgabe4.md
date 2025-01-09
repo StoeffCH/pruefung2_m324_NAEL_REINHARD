@@ -1,0 +1,1 @@
+Ich verwende actions/cache um die Node.js Abhängigkeiten über mehrere builds hinweg zu cachen. So wird die Installation von Paketen beschleunigt, was im CI/CD-Kontext wertvolle Zeit spart.
